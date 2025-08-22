@@ -1,4 +1,4 @@
-Rock, Paper, Scissors Game
+🎮 Rock, Paper, Scissors Game
 A beautifully designed, interactive Rock, Paper, Scissors game built with HTML, CSS, and JavaScript. This project features a modern glassmorphism UI, smooth animations, and responsive design.
 
 Features
